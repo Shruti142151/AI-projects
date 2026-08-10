@@ -1,0 +1,47 @@
+Question,Answer
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence by machines.
+What is AI?,AI stands for Artificial Intelligence.
+What is Machine Learning?,Machine Learning is a branch of AI that enables computers to learn from data.
+What is Deep Learning?,Deep Learning is a subset of Machine Learning based on neural networks.
+What is Python?,Python is a popular programming language used in AI and data science.
+Who developed Python?,Python was developed by Guido van Rossum.
+What is NLP?,Natural Language Processing helps computers understand human language.
+What is Computer Vision?,Computer Vision enables computers to understand images and videos.
+What is Data Science?,Data Science extracts useful insights from data.
+What is a chatbot?,A chatbot is a software program that communicates with users.
+What is TensorFlow?,TensorFlow is an open source machine learning framework developed by Google.
+What is PyTorch?,PyTorch is an open source deep learning framework developed by Meta.
+What is OpenCV?,OpenCV is a library for image processing and computer vision.
+What is NLTK?,NLTK is a Python library for Natural Language Processing.
+What is pandas?,Pandas is a Python library for data analysis.
+What is NumPy?,NumPy is a Python library for numerical computing.
+What is scikit-learn?,Scikit-learn is a Python library for machine learning.
+What is a dataset?,A dataset is a collection of related data.
+What is supervised learning?,Supervised learning uses labeled data for training.
+What is unsupervised learning?,Unsupervised learning finds patterns in unlabeled data.
+What is reinforcement learning?,Reinforcement learning trains an agent using rewards and penalties.
+What is overfitting?,Overfitting happens when a model memorizes the training data.
+What is underfitting?,Underfitting happens when a model fails to learn useful patterns.
+What is model training?,Model training teaches a machine learning model using data.
+What is testing data?,Testing data is used to evaluate a trained model.
+What is accuracy?,Accuracy measures the percentage of correct predictions.
+What is precision?,Precision measures how many predicted positives are correct.
+What is recall?,Recall measures how many actual positives are identified correctly.
+What is F1 Score?,F1 Score combines precision and recall into one metric.
+What is classification?,Classification predicts categories.
+What is regression?,Regression predicts numerical values.
+What is clustering?,Clustering groups similar data points.
+What is K Means?,K Means is a clustering algorithm.
+What is Decision Tree?,Decision Tree is a machine learning algorithm.
+What is Random Forest?,Random Forest combines multiple decision trees.
+What is Neural Network?,A Neural Network is inspired by the human brain.
+What is CNN?,CNN stands for Convolutional Neural Network.
+What is RNN?,RNN stands for Recurrent Neural Network.
+What is LSTM?,LSTM is a type of recurrent neural network.
+What is Generative AI?,Generative AI creates new content such as text images music and code.
+What is ChatGPT?,ChatGPT is an AI chatbot developed by OpenAI.
+What is prompt engineering?,Prompt engineering is the process of writing effective prompts for AI.
+What is cosine similarity?,Cosine similarity measures how similar two pieces of text are.
+What is TF IDF?,TF IDF converts text into numerical vectors based on word importance.
+What is GitHub?,GitHub is a platform for hosting code repositories.
+What is VS Code?,Visual Studio Code is a source code editor developed by Microsoft.
